@@ -1,0 +1,4 @@
+Epoch: 0 ID: 100 Model: Actor Train_Ratio: 1.0043 Test_Ratio: 0.9841 Loss: -0.5000 Corr: 0.3913 L_Avg: 0.5440 Track: 1.9681 runtime: 9.91 z_avg: 0.050
+Epoch: 0 ID: 200 Model: Actor Train_Ratio: 1.0132 Test_Ratio: 1.0118 Loss: -0.4470 Corr: 0.4261 L_Avg: 0.4883 Track: 2.2635 runtime: 11.99 z_avg: 0.092
+Epoch: 0 ID: 300 Model: Actor Train_Ratio: 1.0036 Test_Ratio: 1.0061 Loss: -0.2820 Corr: 0.4973 L_Avg: 0.3588 Track: 3.5672 runtime: 11.96 z_avg: 0.122
+Epoch: 0 ID: 400 Model: Actor Train_Ratio: 1.0074 Test_Ratio: 1.0109 Loss: -0.0467 Corr: 0.4726 L_Avg: 0.3840 Track: 21.6676 runtime: 11.73 z_avg: 0.219
