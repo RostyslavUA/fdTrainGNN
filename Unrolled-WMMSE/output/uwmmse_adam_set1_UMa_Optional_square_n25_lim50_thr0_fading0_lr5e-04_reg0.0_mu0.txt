@@ -1,0 +1,10 @@
+
+UWMMSE Training Started
+
+Epoch 1/200, Training Average Sum_rate = 15.476001, Test Average Sum_rate = 15.163238, Training Time = 0.012 sec, Test Time = 0.016 sec
+
+Epoch 2/200, Training Average Sum_rate = 15.706597, Test Average Sum_rate = 15.425786, Training Time = 0.003 sec, Test Time = 0.004 sec
+
+> /tf/work/Unrolled-WMMSE/main.py(151)mainTrain()
+-> train_rate += -step_rate
+(Pdb) 

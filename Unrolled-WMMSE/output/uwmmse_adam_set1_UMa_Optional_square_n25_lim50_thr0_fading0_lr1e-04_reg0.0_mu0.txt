@@ -1,0 +1,32 @@
+
+UWMMSE Training Started
+
+Epoch 1/200, Training Average Sum_rate = 15.190888, Test Average Sum_rate = 14.986057, Training Time = 0.009 sec, Test Time = 0.023 sec
+
+Epoch 2/200, Training Average Sum_rate = 15.503770, Test Average Sum_rate = 15.121548, Training Time = 0.012 sec, Test Time = 0.015 sec
+
+Epoch 3/200, Training Average Sum_rate = 15.572226, Test Average Sum_rate = 15.149887, Training Time = 0.005 sec, Test Time = 0.015 sec
+
+Epoch 4/200, Training Average Sum_rate = 15.586587, Test Average Sum_rate = 15.156418, Training Time = 0.011 sec, Test Time = 0.020 sec
+
+Epoch 5/200, Training Average Sum_rate = 15.591354, Test Average Sum_rate = 15.160601, Training Time = 0.010 sec, Test Time = 0.011 sec
+
+Epoch 6/200, Training Average Sum_rate = 15.598016, Test Average Sum_rate = 15.169585, Training Time = 0.021 sec, Test Time = 0.021 sec
+
+Epoch 7/200, Training Average Sum_rate = 15.612970, Test Average Sum_rate = 15.188562, Training Time = 0.023 sec, Test Time = 0.017 sec
+
+Epoch 8/200, Training Average Sum_rate = 15.640174, Test Average Sum_rate = 15.220627, Training Time = 0.007 sec, Test Time = 0.017 sec
+
+Epoch 9/200, Training Average Sum_rate = 15.678386, Test Average Sum_rate = 15.264180, Training Time = 0.011 sec, Test Time = 0.021 sec
+
+Epoch 10/200, Training Average Sum_rate = 15.723932, Test Average Sum_rate = 15.311800, Training Time = 0.015 sec, Test Time = 0.019 sec
+
+Epoch 11/200, Training Average Sum_rate = 15.773503, Test Average Sum_rate = 15.363088, Training Time = 0.018 sec, Test Time = 0.017 sec
+
+Epoch 12/200, Training Average Sum_rate = 15.826513, Test Average Sum_rate = 15.416513, Training Time = 0.006 sec, Test Time = 0.021 sec
+
+Epoch 13/200, Training Average Sum_rate = 15.882107, Test Average Sum_rate = 15.475900, Training Time = 0.024 sec, Test Time = 0.021 sec
+
+> /tf/work/Unrolled-WMMSE/main.py(151)mainTrain()
+-> train_rate += -step_rate
+(Pdb) 

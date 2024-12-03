@@ -1,0 +1,6 @@
+
+DUWMMSE Training Started
+
+> /tf/work/Unrolled-WMMSE/main_d.py(164)mainTrain()
+-> train_rate += -step_rate
+(Pdb) 

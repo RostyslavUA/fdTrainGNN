@@ -1,0 +1,35 @@
+
+UWMMSE Training Started
+
+Epoch 1/200, Training Average Sum_rate = 14.884857, Test Average Sum_rate = 14.515237, Training Time = 0.023 sec, Test Time = 0.024 sec
+
+Epoch 2/200, Training Average Sum_rate = 14.980935, Test Average Sum_rate = 14.603249, Training Time = 0.015 sec, Test Time = 0.020 sec
+
+Epoch 3/200, Training Average Sum_rate = 15.066242, Test Average Sum_rate = 14.681005, Training Time = 0.005 sec, Test Time = 0.013 sec
+
+Epoch 4/200, Training Average Sum_rate = 15.141312, Test Average Sum_rate = 14.749075, Training Time = 0.005 sec, Test Time = 0.011 sec
+
+Epoch 5/200, Training Average Sum_rate = 15.207067, Test Average Sum_rate = 14.808547, Training Time = 0.028 sec, Test Time = 0.019 sec
+
+Epoch 6/200, Training Average Sum_rate = 15.264257, Test Average Sum_rate = 14.860248, Training Time = 0.014 sec, Test Time = 0.019 sec
+
+Epoch 7/200, Training Average Sum_rate = 15.313704, Test Average Sum_rate = 14.905047, Training Time = 0.035 sec, Test Time = 0.018 sec
+
+Epoch 8/200, Training Average Sum_rate = 15.356313, Test Average Sum_rate = 14.943580, Training Time = 0.015 sec, Test Time = 0.016 sec
+
+Epoch 9/200, Training Average Sum_rate = 15.392870, Test Average Sum_rate = 14.976735, Training Time = 0.020 sec, Test Time = 0.018 sec
+
+Epoch 10/200, Training Average Sum_rate = 15.423951, Test Average Sum_rate = 15.004912, Training Time = 0.013 sec, Test Time = 0.017 sec
+
+Epoch 11/200, Training Average Sum_rate = 15.450356, Test Average Sum_rate = 15.029303, Training Time = 0.024 sec, Test Time = 0.015 sec
+
+Epoch 12/200, Training Average Sum_rate = 15.472856, Test Average Sum_rate = 15.050016, Training Time = 0.007 sec, Test Time = 0.013 sec
+
+Epoch 13/200, Training Average Sum_rate = 15.491855, Test Average Sum_rate = 15.067370, Training Time = 0.036 sec, Test Time = 0.019 sec
+
+Epoch 14/200, Training Average Sum_rate = 15.507797, Test Average Sum_rate = 15.081948, Training Time = 0.011 sec, Test Time = 0.017 sec
+
+Epoch 15/200, Training Average Sum_rate = 15.521208, Test Average Sum_rate = 15.094157, Training Time = 0.059 sec, Test Time = 0.017 sec
+
+Epoch 16/200, Training Average Sum_rate = 15.532432, Test Average Sum_rate = 15.104345, Training Time = 0.006 sec, Test Time = 0.013 sec
+

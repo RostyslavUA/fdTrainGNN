@@ -1,0 +1,209 @@
+
+DUWMMSE Training Started
+
+Epoch 1/200, Training Average Sum_rate = 15.918240, Test Average Sum_rate = 15.792382, Training Time = 0.019 sec, Test Time = 0.032 sec
+
+Epoch 2/200, Training Average Sum_rate = 16.020487, Test Average Sum_rate = 15.885111, Training Time = 0.028 sec, Test Time = 0.019 sec
+
+Epoch 3/200, Training Average Sum_rate = 16.111297, Test Average Sum_rate = 15.967366, Training Time = 0.018 sec, Test Time = 0.020 sec
+
+Epoch 4/200, Training Average Sum_rate = 16.190844, Test Average Sum_rate = 16.039775, Training Time = 0.020 sec, Test Time = 0.018 sec
+
+Epoch 5/200, Training Average Sum_rate = 16.260488, Test Average Sum_rate = 16.103621, Training Time = 0.037 sec, Test Time = 0.022 sec
+
+Epoch 6/200, Training Average Sum_rate = 16.321224, Test Average Sum_rate = 16.159586, Training Time = 0.027 sec, Test Time = 0.019 sec
+
+Epoch 7/200, Training Average Sum_rate = 16.373784, Test Average Sum_rate = 16.208283, Training Time = 0.048 sec, Test Time = 0.024 sec
+
+Epoch 8/200, Training Average Sum_rate = 16.418992, Test Average Sum_rate = 16.250250, Training Time = 0.062 sec, Test Time = 0.023 sec
+
+Epoch 9/200, Training Average Sum_rate = 16.457690, Test Average Sum_rate = 16.285953, Training Time = 0.031 sec, Test Time = 0.019 sec
+
+Epoch 10/200, Training Average Sum_rate = 16.490815, Test Average Sum_rate = 16.316451, Training Time = 0.015 sec, Test Time = 0.020 sec
+
+Epoch 11/200, Training Average Sum_rate = 16.518970, Test Average Sum_rate = 16.342348, Training Time = 0.047 sec, Test Time = 0.020 sec
+
+Epoch 12/200, Training Average Sum_rate = 16.542770, Test Average Sum_rate = 16.364191, Training Time = 0.028 sec, Test Time = 0.017 sec
+
+Epoch 13/200, Training Average Sum_rate = 16.562906, Test Average Sum_rate = 16.382631, Training Time = 0.010 sec, Test Time = 0.021 sec
+
+Epoch 14/200, Training Average Sum_rate = 16.579856, Test Average Sum_rate = 16.398170, Training Time = 0.017 sec, Test Time = 0.016 sec
+
+Epoch 15/200, Training Average Sum_rate = 16.594082, Test Average Sum_rate = 16.411190, Training Time = 0.042 sec, Test Time = 0.021 sec
+
+Epoch 16/200, Training Average Sum_rate = 16.605992, Test Average Sum_rate = 16.422145, Training Time = 0.009 sec, Test Time = 0.016 sec
+
+Epoch 17/200, Training Average Sum_rate = 16.615952, Test Average Sum_rate = 16.431307, Training Time = 0.017 sec, Test Time = 0.021 sec
+
+Epoch 18/200, Training Average Sum_rate = 16.624299, Test Average Sum_rate = 16.438980, Training Time = 0.012 sec, Test Time = 0.018 sec
+
+Epoch 19/200, Training Average Sum_rate = 16.631285, Test Average Sum_rate = 16.445374, Training Time = 0.013 sec, Test Time = 0.021 sec
+
+Epoch 20/200, Training Average Sum_rate = 16.637098, Test Average Sum_rate = 16.450706, Training Time = 0.020 sec, Test Time = 0.020 sec
+
+Epoch 21/200, Training Average Sum_rate = 16.641962, Test Average Sum_rate = 16.455132, Training Time = 0.020 sec, Test Time = 0.019 sec
+
+Epoch 22/200, Training Average Sum_rate = 16.646022, Test Average Sum_rate = 16.458852, Training Time = 0.013 sec, Test Time = 0.019 sec
+
+Epoch 23/200, Training Average Sum_rate = 16.649423, Test Average Sum_rate = 16.461963, Training Time = 0.026 sec, Test Time = 0.021 sec
+
+Epoch 24/200, Training Average Sum_rate = 16.652269, Test Average Sum_rate = 16.464565, Training Time = 0.006 sec, Test Time = 0.021 sec
+
+Epoch 25/200, Training Average Sum_rate = 16.654649, Test Average Sum_rate = 16.466743, Training Time = 0.013 sec, Test Time = 0.022 sec
+
+Epoch 26/200, Training Average Sum_rate = 16.656658, Test Average Sum_rate = 16.468575, Training Time = 0.019 sec, Test Time = 0.017 sec
+
+Epoch 27/200, Training Average Sum_rate = 16.658339, Test Average Sum_rate = 16.470111, Training Time = 0.007 sec, Test Time = 0.019 sec
+
+Epoch 28/200, Training Average Sum_rate = 16.659749, Test Average Sum_rate = 16.471407, Training Time = 0.023 sec, Test Time = 0.022 sec
+
+Epoch 29/200, Training Average Sum_rate = 16.660944, Test Average Sum_rate = 16.472506, Training Time = 0.013 sec, Test Time = 0.020 sec
+
+Epoch 30/200, Training Average Sum_rate = 16.661969, Test Average Sum_rate = 16.473449, Training Time = 0.008 sec, Test Time = 0.019 sec
+
+Epoch 31/200, Training Average Sum_rate = 16.662846, Test Average Sum_rate = 16.474260, Training Time = 0.030 sec, Test Time = 0.018 sec
+
+Epoch 32/200, Training Average Sum_rate = 16.663610, Test Average Sum_rate = 16.474969, Training Time = 0.013 sec, Test Time = 0.021 sec
+
+Epoch 33/200, Training Average Sum_rate = 16.664276, Test Average Sum_rate = 16.475591, Training Time = 0.045 sec, Test Time = 0.018 sec
+
+Epoch 34/200, Training Average Sum_rate = 16.664866, Test Average Sum_rate = 16.476151, Training Time = 0.012 sec, Test Time = 0.019 sec
+
+Epoch 35/200, Training Average Sum_rate = 16.665407, Test Average Sum_rate = 16.476661, Training Time = 0.012 sec, Test Time = 0.019 sec
+
+Epoch 36/200, Training Average Sum_rate = 16.665903, Test Average Sum_rate = 16.477137, Training Time = 0.015 sec, Test Time = 0.015 sec
+
+Epoch 37/200, Training Average Sum_rate = 16.666377, Test Average Sum_rate = 16.477589, Training Time = 0.013 sec, Test Time = 0.018 sec
+
+Epoch 38/200, Training Average Sum_rate = 16.666831, Test Average Sum_rate = 16.478034, Training Time = 0.036 sec, Test Time = 0.023 sec
+
+Epoch 39/200, Training Average Sum_rate = 16.667276, Test Average Sum_rate = 16.478477, Training Time = 0.023 sec, Test Time = 0.018 sec
+
+Epoch 40/200, Training Average Sum_rate = 16.667732, Test Average Sum_rate = 16.478928, Training Time = 0.012 sec, Test Time = 0.018 sec
+
+Epoch 41/200, Training Average Sum_rate = 16.668206, Test Average Sum_rate = 16.479401, Training Time = 0.041 sec, Test Time = 0.023 sec
+
+Epoch 42/200, Training Average Sum_rate = 16.668690, Test Average Sum_rate = 16.479893, Training Time = 0.014 sec, Test Time = 0.022 sec
+
+Epoch 43/200, Training Average Sum_rate = 16.669216, Test Average Sum_rate = 16.480430, Training Time = 0.051 sec, Test Time = 0.018 sec
+
+Epoch 44/200, Training Average Sum_rate = 16.669788, Test Average Sum_rate = 16.481006, Training Time = 0.011 sec, Test Time = 0.021 sec
+
+Epoch 45/200, Training Average Sum_rate = 16.670407, Test Average Sum_rate = 16.481626, Training Time = 0.024 sec, Test Time = 0.019 sec
+
+Epoch 46/200, Training Average Sum_rate = 16.671089, Test Average Sum_rate = 16.482317, Training Time = 0.034 sec, Test Time = 0.017 sec
+
+Epoch 47/200, Training Average Sum_rate = 16.671826, Test Average Sum_rate = 16.483060, Training Time = 0.019 sec, Test Time = 0.016 sec
+
+Epoch 48/200, Training Average Sum_rate = 16.672646, Test Average Sum_rate = 16.483897, Training Time = 0.020 sec, Test Time = 0.017 sec
+
+Epoch 49/200, Training Average Sum_rate = 16.673550, Test Average Sum_rate = 16.484805, Training Time = 0.006 sec, Test Time = 0.020 sec
+
+Epoch 50/200, Training Average Sum_rate = 16.674569, Test Average Sum_rate = 16.485821, Training Time = 0.021 sec, Test Time = 0.016 sec
+
+Epoch 51/200, Training Average Sum_rate = 16.675681, Test Average Sum_rate = 16.486943, Training Time = 0.014 sec, Test Time = 0.016 sec
+
+Epoch 52/200, Training Average Sum_rate = 16.676912, Test Average Sum_rate = 16.488170, Training Time = 0.010 sec, Test Time = 0.016 sec
+
+Epoch 53/200, Training Average Sum_rate = 16.678265, Test Average Sum_rate = 16.489528, Training Time = 0.038 sec, Test Time = 0.015 sec
+
+Epoch 54/200, Training Average Sum_rate = 16.679774, Test Average Sum_rate = 16.491031, Training Time = 0.015 sec, Test Time = 0.019 sec
+
+Epoch 55/200, Training Average Sum_rate = 16.681431, Test Average Sum_rate = 16.492663, Training Time = 0.007 sec, Test Time = 0.018 sec
+
+Epoch 56/200, Training Average Sum_rate = 16.683251, Test Average Sum_rate = 16.494459, Training Time = 0.030 sec, Test Time = 0.019 sec
+
+Epoch 57/200, Training Average Sum_rate = 16.685263, Test Average Sum_rate = 16.496414, Training Time = 0.021 sec, Test Time = 0.019 sec
+
+Epoch 58/200, Training Average Sum_rate = 16.687449, Test Average Sum_rate = 16.498543, Training Time = 0.013 sec, Test Time = 0.016 sec
+
+Epoch 59/200, Training Average Sum_rate = 16.689868, Test Average Sum_rate = 16.500872, Training Time = 0.017 sec, Test Time = 0.023 sec
+
+Epoch 60/200, Training Average Sum_rate = 16.692450, Test Average Sum_rate = 16.503399, Training Time = 0.013 sec, Test Time = 0.020 sec
+
+Epoch 61/200, Training Average Sum_rate = 16.695277, Test Average Sum_rate = 16.506169, Training Time = 0.025 sec, Test Time = 0.014 sec
+
+Epoch 62/200, Training Average Sum_rate = 16.698333, Test Average Sum_rate = 16.509126, Training Time = 0.010 sec, Test Time = 0.015 sec
+
+Epoch 63/200, Training Average Sum_rate = 16.701592, Test Average Sum_rate = 16.512250, Training Time = 0.013 sec, Test Time = 0.022 sec
+
+Epoch 64/200, Training Average Sum_rate = 16.705083, Test Average Sum_rate = 16.515630, Training Time = 0.024 sec, Test Time = 0.019 sec
+
+Epoch 65/200, Training Average Sum_rate = 16.708844, Test Average Sum_rate = 16.519205, Training Time = 0.021 sec, Test Time = 0.021 sec
+
+Epoch 66/200, Training Average Sum_rate = 16.712826, Test Average Sum_rate = 16.522941, Training Time = 0.047 sec, Test Time = 0.021 sec
+
+Epoch 67/200, Training Average Sum_rate = 16.717054, Test Average Sum_rate = 16.526862, Training Time = 0.018 sec, Test Time = 0.019 sec
+
+Epoch 68/200, Training Average Sum_rate = 16.721499, Test Average Sum_rate = 16.530971, Training Time = 0.042 sec, Test Time = 0.020 sec
+
+Epoch 69/200, Training Average Sum_rate = 16.726199, Test Average Sum_rate = 16.535240, Training Time = 0.008 sec, Test Time = 0.019 sec
+
+Epoch 70/200, Training Average Sum_rate = 16.731109, Test Average Sum_rate = 16.539630, Training Time = 0.014 sec, Test Time = 0.017 sec
+
+Epoch 71/200, Training Average Sum_rate = 16.736293, Test Average Sum_rate = 16.544170, Training Time = 0.012 sec, Test Time = 0.019 sec
+
+Epoch 72/200, Training Average Sum_rate = 16.741610, Test Average Sum_rate = 16.548755, Training Time = 0.039 sec, Test Time = 0.018 sec
+
+Epoch 73/200, Training Average Sum_rate = 16.747167, Test Average Sum_rate = 16.553553, Training Time = 0.006 sec, Test Time = 0.022 sec
+
+Epoch 74/200, Training Average Sum_rate = 16.752925, Test Average Sum_rate = 16.558517, Training Time = 0.018 sec, Test Time = 0.014 sec
+
+Epoch 75/200, Training Average Sum_rate = 16.758790, Test Average Sum_rate = 16.563616, Training Time = 0.006 sec, Test Time = 0.015 sec
+
+Epoch 76/200, Training Average Sum_rate = 16.764824, Test Average Sum_rate = 16.568834, Training Time = 0.015 sec, Test Time = 0.018 sec
+
+Epoch 77/200, Training Average Sum_rate = 16.771037, Test Average Sum_rate = 16.574068, Training Time = 0.006 sec, Test Time = 0.006 sec
+
+Epoch 78/200, Training Average Sum_rate = 16.777459, Test Average Sum_rate = 16.579372, Training Time = 0.006 sec, Test Time = 0.006 sec
+
+Epoch 79/200, Training Average Sum_rate = 16.783984, Test Average Sum_rate = 16.584768, Training Time = 0.004 sec, Test Time = 0.006 sec
+
+Epoch 80/200, Training Average Sum_rate = 16.790509, Test Average Sum_rate = 16.590281, Training Time = 0.007 sec, Test Time = 0.005 sec
+
+Epoch 81/200, Training Average Sum_rate = 16.797286, Test Average Sum_rate = 16.595930, Training Time = 0.006 sec, Test Time = 0.005 sec
+
+Epoch 82/200, Training Average Sum_rate = 16.804052, Test Average Sum_rate = 16.601727, Training Time = 0.006 sec, Test Time = 0.005 sec
+
+Epoch 83/200, Training Average Sum_rate = 16.810931, Test Average Sum_rate = 16.607747, Training Time = 0.006 sec, Test Time = 0.005 sec
+
+Epoch 84/200, Training Average Sum_rate = 16.817914, Test Average Sum_rate = 16.614023, Training Time = 0.006 sec, Test Time = 0.005 sec
+
+Epoch 85/200, Training Average Sum_rate = 16.824978, Test Average Sum_rate = 16.620423, Training Time = 0.007 sec, Test Time = 0.006 sec
+
+Epoch 86/200, Training Average Sum_rate = 16.832176, Test Average Sum_rate = 16.627005, Training Time = 0.006 sec, Test Time = 0.006 sec
+
+Epoch 87/200, Training Average Sum_rate = 16.839312, Test Average Sum_rate = 16.633498, Training Time = 0.007 sec, Test Time = 0.007 sec
+
+Epoch 88/200, Training Average Sum_rate = 16.846597, Test Average Sum_rate = 16.640089, Training Time = 0.008 sec, Test Time = 0.006 sec
+
+Epoch 89/200, Training Average Sum_rate = 16.853896, Test Average Sum_rate = 16.646672, Training Time = 0.003 sec, Test Time = 0.006 sec
+
+Epoch 90/200, Training Average Sum_rate = 16.861260, Test Average Sum_rate = 16.653394, Training Time = 0.006 sec, Test Time = 0.007 sec
+
+Epoch 91/200, Training Average Sum_rate = 16.868738, Test Average Sum_rate = 16.660125, Training Time = 0.012 sec, Test Time = 0.008 sec
+
+Epoch 92/200, Training Average Sum_rate = 16.876205, Test Average Sum_rate = 16.666975, Training Time = 0.020 sec, Test Time = 0.021 sec
+
+Epoch 93/200, Training Average Sum_rate = 16.883773, Test Average Sum_rate = 16.674005, Training Time = 0.010 sec, Test Time = 0.019 sec
+
+Epoch 94/200, Training Average Sum_rate = 16.891324, Test Average Sum_rate = 16.680986, Training Time = 0.037 sec, Test Time = 0.019 sec
+
+Epoch 95/200, Training Average Sum_rate = 16.898953, Test Average Sum_rate = 16.688158, Training Time = 0.007 sec, Test Time = 0.014 sec
+
+Epoch 96/200, Training Average Sum_rate = 16.906529, Test Average Sum_rate = 16.695117, Training Time = 0.019 sec, Test Time = 0.019 sec
+
+Epoch 97/200, Training Average Sum_rate = 16.914289, Test Average Sum_rate = 16.702376, Training Time = 0.040 sec, Test Time = 0.019 sec
+
+Epoch 98/200, Training Average Sum_rate = 16.922049, Test Average Sum_rate = 16.709823, Training Time = 0.006 sec, Test Time = 0.017 sec
+
+Epoch 99/200, Training Average Sum_rate = 16.929938, Test Average Sum_rate = 16.717633, Training Time = 0.017 sec, Test Time = 0.015 sec
+
+Epoch 100/200, Training Average Sum_rate = 16.937831, Test Average Sum_rate = 16.725617, Training Time = 0.013 sec, Test Time = 0.019 sec
+
+Epoch 101/200, Training Average Sum_rate = 16.945941, Test Average Sum_rate = 16.733395, Training Time = 0.015 sec, Test Time = 0.019 sec
+
+Epoch 102/200, Training Average Sum_rate = 16.953905, Test Average Sum_rate = 16.741128, Training Time = 0.026 sec, Test Time = 0.018 sec
+
+Epoch 103/200, Training Average Sum_rate = 16.961967, Test Average Sum_rate = 16.749132, Training Time = 0.008 sec, Test Time = 0.019 sec
+
