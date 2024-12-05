@@ -17,7 +17,7 @@ Tensorflow implementation of the experiment "Unsupervised Learning for UWMMSE Po
 * [models](https://github.com/RostyslavUA/Unrolled-WMMSE-distr/tree/master/models): Stores trained models in a folder with same name as \[dataset ID\].
 
 
-Notice: to reporduce the paper results, the complete dataset containing 10000 training and 100 test samples has to be generated with `datagen.py`. Please make sure that the following parameters are set `nNodes=25`, `layout='square'`, `xy_lim=500`, `threshold=True`, `fading=True`. Then, run the experiments with the parameters as is indicated in the paper.
+Notice: to reporduce the paper results, the complete dataset containing 10000 training and 100 test mini-batches has to be generated with `datagen.py`. Please make sure that the following parameters are set `nNodes=25`, `layout='square'`, `xy_lim=500`, `threshold=True`, `fading=True`, `tr_iter=10000`, `te_iter=100`. Then, run the experiments with the parameters as is indicated in the paper.
 
 ## Feedback
 For questions and comments, feel free to contact [Rostyslav Olshevskyi](mailto:ro22@rice.edu).
