@@ -28,6 +28,8 @@ To run MWIS experiment execute `mwis_gcn_train_twin.py` with the desired flags (
 Adam optimizer and the learning rate of 0.00005, run
 `python mwis_gcn_train_twin.py --training_set=dist_GCN --architecture=decentralized --optimizer=Adam --learning_rate=0.001`.
 
+Notice: to reproduce the paper results, run the experiments with the parameters settings specified the provided [bash script](https://github.com/RostyslavUA/fdTrainGNN/blob/main/twin-nphard/bash/mwis.sh).
+
 ## Feedback
 For questions and comments, feel free to contact [Rostyslav Olshevskyi](mailto:ro22@rice.edu).
 
