@@ -21,6 +21,8 @@ RostyslavUA
 To run the experiment, execute `regression.py` with the desired flags. For example, to run distributed training with 
 sigmoid activation functions, batch size of 100 and D-Adam optimizer, execute `python regression.py 3 distributed mix 1.0 sigmoid 100 dadam`.
 
+Notice: to reproduce the results from the paper, please run the experiment with the parameter settings specified in the provided [bash script](https://github.com/RostyslavUA/fdTrainGNN/blob/main/regression/regression.sh).
+
 ## Feedback
 For questions and comments, feel free to contact [Rostyslav Olshevskyi](mailto:ro22@rice.edu).
 
