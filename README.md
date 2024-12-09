@@ -1,6 +1,6 @@
 # Fully Distributed Online Training of Graph Neural Networks in Networked Systems
 
-The experiments described in the paper "Fully Distributed Online Training of Graph Neural Networks in Networked Systems" are linked to this repository. Please, click on each directory to learn more.
+The experiments described in the paper "Fully Distributed Online Training of Graph Neural Networks in Networked Systems" are located in this repository. Please, click on each directory to learn more.
 
 ## Feedback
 For questions and comments, feel free to contact [Rostyslav Olshevskyi](mailto:ro22@rice.edu).
