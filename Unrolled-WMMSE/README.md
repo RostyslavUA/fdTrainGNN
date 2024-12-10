@@ -21,6 +21,3 @@ Notice: to reporduce the paper results, the complete dataset containing 10000 tr
 
 ## Feedback
 For questions and comments, feel free to contact [Rostyslav Olshevskyi](mailto:ro22@rice.edu).
-
-## Citation
-Please cite (TODO: add citation) in your work when using this library in your experiments.
